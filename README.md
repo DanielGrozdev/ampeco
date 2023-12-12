@@ -17,6 +17,7 @@ Then press ```a``` for Android and ```i``` for IOS.
 #### 4. Start mock server
 
 While in your project's root directory type: ``` npx wiremock ```
+
 While in your project's root directory type: ``` ngrok http 8080 ```
 
 #### 5. Test
